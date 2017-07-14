@@ -1,0 +1,32 @@
+ body
+  {
+    background-color:#c7ffc4;
+    color: black;
+    font-family:Helvetica;
+  }
+  strong
+  {
+    background-color: white;
+  }
+
+  {
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+button {
+  width: 100px;
+  height: 25px;
+  background-color: DarkSalmon ;
+  border: none; 
+  font-size: 1em;
+  color: white;
+
+}
+text {
+  width: 250px;
+  height: 110px;
+  background-color: DarkSalmon ;
+  border: none; 
+  font-size: 1em;
+  color: white;
+}
